@@ -1,0 +1,6 @@
+{
+  "name": "Oleanders Guest House - Edinburgh",
+  "description": "Luxurious boutique guest house accommodation in Edinburgh, Scotland with warm Scottish hospitality, comfortable rooms, and easy access to Edinburgh attractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
